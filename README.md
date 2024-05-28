@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samant77&label=Profile%20views&color=0e75b6&style=flat" alt="samant77" /> </p>
 
-- 🔭 I’m currently working on **Project Name "Tour and Travell"**
+- 🔭 I’m currently working on **Project Name "Tour and Travels"**
 
 - 🌱 I’m currently learning **Laravel , React**
 
-- 👨‍💻 All of my projects are available at [xyz](xyz)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/samant77](https://linktr.ee/samant77)
 
 - 💬 Ask me about **HTML, Laravel, PHP**
 
