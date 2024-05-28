@@ -1,4 +1,5 @@
-![logo](https://github.com/Samant77/Samant77/blob/main/1.png)
+
+
 
 <h1 align="center">Hi 👋, I'm Samant Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
