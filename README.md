@@ -11,13 +11,22 @@
 
 - 🌱 I’m currently learning **Laravel , React**
 
+-  👯 I’m looking to collaborate on..
+
+   <ul>
+      <li>Open Source Projects: Keen to contribute to exciting and impactful projects. </li>
+      <li>Web Applications: Interested in teaming up to create innovative web solutions.</li>
+  </ul>
+
 - 👨‍💻 All of my projects are available at [https://linktr.ee/samant77](https://linktr.ee/samant77)
 
 - 💬 Ask me about **HTML, Laravel, PHP**
 
 - 📫 How to reach me **Kumarsamant105@gmail.com**
 
-- 📄 Know about my experiences [resumelink](resumelink)
+- 📄 Know about my experiences [Click Here !](https://samant77.github.io/Resume-samant/)
+
+- ⚡ Fun fact  **"I love coding so much that I've spent countless late nights debugging, only to realize the next morning that I had an extra semicolon all along!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
